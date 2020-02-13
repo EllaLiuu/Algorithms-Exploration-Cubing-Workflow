@@ -1,0 +1,3 @@
+<h1>Sources Cited</h1>
+<h2>Resources used in my learnflow:</h2>
+Rubik's Cube Notation: https://ruwix.com/the-rubiks-cube/notation/
