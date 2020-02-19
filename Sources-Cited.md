@@ -12,3 +12,5 @@ Helpful video 3x3 which includes algorithms in the description: https://www.yout
 Timer I used: https://cubingtime.com/timer
 
 3x3 Notatation: https://ruwix.com/blog/new-rubiks-cube-notation-widget/
+
+Memorizing algorithms: https://www.youtube.com/watch?v=1NwrGmBUn44
