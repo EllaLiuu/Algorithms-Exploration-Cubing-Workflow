@@ -15,12 +15,13 @@ This repository contains my algorithms exploration cubing workflow assignment.
 | ------------ |  --------------- | ---------------- | 
 | Pyraminx Duo |  Advanced Method | 2/13/2020 5.94<br/> 2/14/2020 5.14<br/> 2/18/2020 4.52<br/> 2/19/2020 4.57 <br/> 3/2/2020 4.47| 
 | 3x3 |  Beginner Method | 2/18/2020 1:21.48 <br/> 2/20/2020 1:17.20 </br> 2/25/2020 1:19.67 </br> 2/26/2020 1:02.36 <br/> 3/2/2020 1:08.58| 
-| 2x2 |  Beginner Method | 2/20/2020 46.08 <br/> 2/24/2020 39.07 <br/> 2/25/2020 38.19 <br/> 3/2/2020 28.53 
+| 2x2 |  Beginner Method | 2/20/2020 46.08 <br/> 2/24/2020 39.07 <br/> 2/25/2020 38.19 <br/> 3/2/2020 28.53 <br/> 3/3/2020 23.98
 
 <h2>Validated Time Trials</h2>
 
 | Type of Cube | Type of Solve | Inspection Time |        MO3      |   Judge |
 | ------------ |  --------------- | ----- | ----------- | --- |
 | 3x3 | Sighted | 0 | 1:13.94 | Mr. Osudar |
+| Pyraminx Duo | Blind | Mixed with total time | 32.41 | Sofia 
 
 
