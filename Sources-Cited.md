@@ -16,3 +16,5 @@ Timer I used: https://cubingtime.com/timer
 Memorizing algorithms: https://www.youtube.com/watch?v=1NwrGmBUn44
 
 2x2 Simple tutorial: https://www.youtube.com/watch?v=bCn8TajrPqc
+
+Blind Pyraminx Duo helpful video: https://www.youtube.com/watch?v=UGzAwSdRa6I
