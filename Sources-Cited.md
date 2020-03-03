@@ -18,3 +18,5 @@ Memorizing algorithms: https://www.youtube.com/watch?v=1NwrGmBUn44
 2x2 Simple tutorial: https://www.youtube.com/watch?v=bCn8TajrPqc
 
 Blind Pyraminx Duo helpful video: https://www.youtube.com/watch?v=UGzAwSdRa6I
+
+Cubing Terminology: https://ruwix.com/the-rubiks-cube/cubing-terminology-abbreviations-commonly-used-expressions/
